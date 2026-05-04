@@ -76,6 +76,7 @@ section.imagem{
     background: url(../imagens/background001.jpg) top right no-repeat fixed;
     background-size: cover;
     padding: 80px 0px 80px 30px;
+    box-shadow: inset 10px 10px 10px rgba(0, 0, 0, 0.404);
 }
 
 section.imagem > p{
@@ -88,6 +89,7 @@ section.imagem > p{
     font-size: 2.6vw;
     padding: 0px 20px 20px 20px;
     text-align: left;
+    text-shadow: 5px 2px 10px rgb(0, 0, 0);
     line-height: 1em;
 }
 
@@ -95,6 +97,7 @@ section.imagem2{
     background: url(../imagens/background002.jpg) top right no-repeat fixed;
     background-size: cover;
     padding: 80px 0px 80px 30px;
+    box-shadow: inset 10px 10px 10px rgba(0, 0, 0, 0.404);
 }
 
 section.imagem2 > p{
@@ -107,6 +110,7 @@ section.imagem2 > p{
     font-size: 2.6vw;
     padding: 0px 20px 20px 20px;
     text-align: left;
+    text-shadow: 5px 2px 10px rgb(0, 0, 0);
     line-height: 1em;
 }
 
