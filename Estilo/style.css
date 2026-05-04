@@ -68,14 +68,14 @@ section.texto > p{
     text-align: left;
     font-style: italic;
     font-weight: bold;
-    font-size: 3vw;
+    font-size: 0.6em;
     line-height: 1em;
 }
 
 section.imagem{
     background: url(../imagens/background001.jpg) top right no-repeat fixed;
     background-size: cover;
-    padding: 80px 0px 80px 30px;
+    padding: 80px 0px 90px 30px;
     box-shadow: inset 10px 10px 10px rgba(0, 0, 0, 0.404);
 }
 
@@ -86,7 +86,7 @@ section.imagem > p{
     font-family: var(--font3);
     font-style: italic;
     font-weight: bolder;
-    font-size: 2.6vw;
+    font-size: 0.6em;
     padding: 0px 20px 20px 20px;
     text-align: left;
     text-shadow: 5px 2px 10px rgb(0, 0, 0);
@@ -96,7 +96,7 @@ section.imagem > p{
 section.imagem2{
     background: url(../imagens/background002.jpg) top right no-repeat fixed;
     background-size: cover;
-    padding: 80px 0px 80px 30px;
+    padding: 80px 0px 90px 30px;
     box-shadow: inset 10px 10px 10px rgba(0, 0, 0, 0.404);
 }
 
@@ -107,7 +107,7 @@ section.imagem2 > p{
     font-family: var(--font3);
     font-style: italic;
     font-weight: bolder;
-    font-size: 2.6vw;
+    font-size: 0.6em;
     padding: 0px 20px 20px 20px;
     text-align: left;
     text-shadow: 5px 2px 10px rgb(0, 0, 0);
