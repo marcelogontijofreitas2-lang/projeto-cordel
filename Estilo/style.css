@@ -59,6 +59,7 @@ section.texto{
 
 section.texto > p{
     background-color: white;
+    border-radius: 15px;
     font-family: var(--font3);
     font-style: italic;
     font-weight: bold;
