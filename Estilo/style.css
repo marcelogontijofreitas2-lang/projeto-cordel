@@ -59,7 +59,6 @@ section.texto{
 
 section.texto > p{
     background-color: white;
-    border-radius: 15px;
     font-family: var(--font3);
     font-style: italic;
     font-weight: bold;
@@ -78,6 +77,7 @@ section.imagem{
 
 section.imagem > p{   
     background-color: rgba(0, 14, 0, 0.664);
+    border-radius: 10px;
     color: white;
     display: inline-block;
     font-family: var(--font3);
@@ -98,6 +98,7 @@ section.imagem2{
 
 section.imagem2 > p{   
     background-color: rgba(65, 70, 60, 0.493);
+    border-radius: 10px;
     color: white;
     display: inline-block;
     font-family: var(--font3);
