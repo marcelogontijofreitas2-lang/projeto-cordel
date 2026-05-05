@@ -58,6 +58,10 @@ section{
     padding-left: 30px;
 }
 
+section > p{
+    padding-bottom: 2em;
+}
+
 section.texto{
     background-color: white;
 }
@@ -65,18 +69,16 @@ section.texto{
 section.texto > p{
     background-color: white;
     font-size: 3vw;
-    padding-bottom: 50px;
 }
 
 section.imagem{
-    background: url(../imagens/background001.jpg) top right no-repeat fixed;
+    background: url(../imagens/background001.jpg) top center no-repeat fixed;
     background-size: cover;
-    box-shadow: inset 10px 10px 10px rgba(0, 0, 0, 0.404);
-    padding: 95px 0px 95px 30px;
+    box-shadow: inset 10px 10px 10px rgba(0, 0, 0, 0.37);
 }
 
 section.imagem > p{
-    background-color: rgba(0, 0, 0, 0.253);
+    background-color: rgba(0, 0, 0, 0.705);
     border-radius: 10px;
     color: white;
     display: inline-block;
@@ -86,14 +88,13 @@ section.imagem > p{
 }
 
 section.imagem2{
-    background: url(../imagens/background002.jpg) top right no-repeat fixed;
+    background: url(../imagens/background002.jpg) top center no-repeat fixed;
     background-size: cover;
-    box-shadow: inset 10px 10px 10px rgba(0, 0, 0, 0.404);
-    padding: 95px 0px 95px 30px;
+    box-shadow: inset 10px 10px 10px rgba(0, 0, 0, 0.37);
 }
 
 section.imagem2 > p{   
-    background-color: rgba(65, 70, 60, 0.493);
+    background-color: rgba(65, 70, 60, 0.705);
     border-radius: 10px;
     color: white;
     display: inline-block;
